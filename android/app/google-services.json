@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "145730313552",
+    "firebase_url": "https://shopoes-2e0b8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopoes-2e0b8",
+    "storage_bucket": "shopoes-2e0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145730313552:android:57cbebf45498497901a055",
+        "android_client_info": {
+          "package_name": "com.example.coffee_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznM1m62LdnnVIGLQcF5YPu64nuSJHN6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145730313552:android:55ea23695f29b29901a055",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznM1m62LdnnVIGLQcF5YPu64nuSJHN6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
